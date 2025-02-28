@@ -1,0 +1,223 @@
+17:30:48.123 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.129 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.129 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.134 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+17:30:48.139 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+17:30:48.140 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.142 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.149 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+17:30:48.149 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:30:48.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:30:48.156 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\AppData\Local\Temp\testng-eclipse--43271147\testng-customsuite.xml
+
+17:30:48.168 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+17:30:48.292 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2ccca26f: 36 ms
+17:30:48.299 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5a7005d: 7 ms
+17:30:48.307 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@36f48b4: 8 ms
+17:30:48.316 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@607fbe09: 8 ms
+17:30:48.321 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6eeade6c: 5 ms
+17:30:48.321 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4a891c97: 0 ms
+17:31:24.405 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+17:31:24.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+17:31:30.637 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:31:32.913 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:31:32.919 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:31:44.245 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:31:44.247 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:31:49.145 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:32:00.319 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:32:00.322 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:32:02.954 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:34:20.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+17:34:20.857 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+17:34:25.125 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:34:27.214 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:34:27.217 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:34:38.320 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:34:38.322 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:34:40.936 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:34:52.084 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:34:52.086 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:34:54.780 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:51:13.625 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+17:51:13.769 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+17:51:18.584 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:51:21.995 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:51:21.998 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:51:33.208 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:51:33.210 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:51:35.861 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:51:47.085 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:51:47.087 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+17:51:49.801 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+17:52:47.973 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+17:52:48.106 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+17:52:52.027 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:52:52.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:52:52.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:52:52.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:52:52.317 [main] WARN  org.testng.internal.Utils - The test method 'testCases.TC003_LoginDDT.verify_LoginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+17:58:18.297 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+17:58:18.425 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+17:58:22.448 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:58:22.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:08:09.021 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+18:08:09.145 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+18:08:14.048 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:08:14.050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:14:59.208 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+18:14:59.337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+18:15:06.245 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:15:06.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:18:24.783 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+18:18:24.913 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+18:18:28.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:18:28.991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:20:22.056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+18:20:22.185 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+18:20:25.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:20:25.716 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:20:48.413 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+18:20:48.555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+18:20:52.123 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:20:54.160 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:20:54.164 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:21:05.472 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:21:05.474 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:21:07.697 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:21:18.866 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:21:18.869 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:21:21.325 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:32:44.717 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+18:32:44.852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+18:32:49.759 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:32:51.878 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:32:51.883 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:33:03.085 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:33:05.704 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:33:05.707 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:33:16.824 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:33:16.827 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:33:19.365 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:34:34.585 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+18:34:34.710 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+18:34:38.219 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:34:40.249 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:34:40.254 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:34:51.428 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:34:53.623 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:34:53.626 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:35:04.780 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+18:35:04.782 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+18:35:07.584 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:23:05.952 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+10:23:06.083 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+10:23:13.999 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:23:19.163 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:23:19.171 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:23:30.366 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:23:36.560 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:23:36.567 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:23:50.765 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:23:50.767 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:23:56.713 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:23:56.720 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:24:10.991 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:25:35.397 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+10:25:35.535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+10:25:41.251 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:25:46.386 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:25:46.393 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:25:57.650 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:26:03.588 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:26:03.593 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:26:17.932 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:26:17.940 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:26:23.870 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:26:23.874 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:26:38.171 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:28:03.289 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+10:28:03.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+10:28:07.991 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:28:13.171 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:28:13.179 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:28:27.460 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:28:27.464 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:28:33.509 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:28:33.521 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:28:47.731 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:28:47.741 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:28:53.510 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:28:53.513 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:29:08.191 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:29:26.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+10:29:26.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+10:29:30.144 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:29:36.785 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:29:36.789 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:29:50.967 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:29:50.971 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:29:56.451 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:29:56.457 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:30:10.772 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:30:10.775 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:30:16.749 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:30:16.753 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+10:30:31.442 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+10:50:05.494 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml"
+10:50:05.631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shenl\eclipse-workspace\OpencartV121\master.xml
+
+10:50:09.458 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:50:09.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
